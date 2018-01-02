@@ -29,7 +29,7 @@ void setup() {
   // initialize the digital pin as an output.
   pinMode(LEDS, OUTPUT); //LEDs
   pinMode(FET, OUTPUT); // Power FET
-  pinMode(BUTTONLED, OUTPUT); // Puwer Button LED
+  pinMode(BUTTONLED, OUTPUT); // Power Button LED
   pinMode(BUTTONVALUE, INPUT);
 }
 
